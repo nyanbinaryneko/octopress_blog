@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://alineer.com
+title: (A Li)near Solution
+subtitle: Finding Complex Solutions to Straight Forward, Simple, Problems.
+author: Alison Neer
 simple_search: https://www.google.com/search
 description:
 
