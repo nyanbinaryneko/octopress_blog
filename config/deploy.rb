@@ -6,9 +6,7 @@ set :scm, :git
 set :scm_verbose, false
 
 # Set your repository URL
-set :scm, :none
-set :repository, "."
-set :deploy_via, :copy
+set :repository, "git@github.com:alikoneko/octopress_blog.git"
 
 # Set your application name
 set :application, "alineer.com"
