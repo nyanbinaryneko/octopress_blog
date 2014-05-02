@@ -51,6 +51,8 @@ GEM
     rb-fsevent (0.9.1)
     rdiscount (2.0.7.3)
     rubypants (0.2.0)
+    rvm-capistrano (1.5.1)
+      capistrano (~> 2.15.4)
     sass (3.2.9)
     sass-globbing (1.0.0)
       sass (>= 3.1)
@@ -68,7 +70,7 @@ PLATFORMS
 
 DEPENDENCIES
   RedCloth (~> 4.2.9)
-  capistrano
+  capistrano (~> 2.15.5)
   compass (~> 0.12.2)
   directory_watcher (= 1.4.1)
   font-awesome-sass
@@ -80,6 +82,7 @@ DEPENDENCIES
   rb-fsevent (~> 0.9)
   rdiscount (~> 2.0.7)
   rubypants (~> 0.2.0)
+  rvm-capistrano (~> 1.5.1)
   sass (~> 3.2)
   sass-globbing (~> 1.0.0)
   sinatra (~> 1.4.2)

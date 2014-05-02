@@ -19,7 +19,7 @@ group :development, :production do
   gem 'font-awesome-sass'
 end
 
-gem 'capistrano'
-gem 'capistrano-rvm'
+gem 'capistrano', '~> 2.15.5'
+gem 'rvm-capistrano', '~> 1.5.1'
 
 gem 'sinatra', '~> 1.4.2'
